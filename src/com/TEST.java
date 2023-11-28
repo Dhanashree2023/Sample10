@@ -7,6 +7,8 @@ public class TEST {
 		System.out.println("TEST");
 		
 		System.out.println("test2");
+		
+		System.out.println("Testing branch code");
 
 	}
 
